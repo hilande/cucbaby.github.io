@@ -105,10 +105,23 @@ a.nav1.active {
   color: #000 !important;
 }
 .nav-check2 a{
-  color: #16af04 !important;
+  color: #025cc7 !important;
 }
 a.nav2:hover,
 a.nav2:focus,
 a.nav2.active {
-  color: #138505 !important;
+  color: 	#000080 !important;
+}
+
+a.navbar-caption{
+  color: #000 !important;
+  font-size: 1.5rem;
+}
+a.navbar-caption:hover,
+a.navbar-caption:focus,
+a.navbar-caption.active {
+  color: #696969 !important;
+}
+.suibian{
+  color: #fff !important;
 }
