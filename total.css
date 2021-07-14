@@ -1,0 +1,114 @@
+/* 历史记录 */
+.lishijilu{
+  color: #ff0000;
+}
+
+.lishijilu:hover{
+  color: #a80000;
+}
+/* 导航栏在此页的样式 */
+/* .nav-check{
+  background-color: #ff0000;
+  border-radius: 10px;
+} */
+
+
+/* 个人页面的学号专业 */
+.grone{
+  color: #ff0000;
+}
+a.nav-link{
+  color: #000 !important;
+}
+.nav-check a{
+  color: #ff0000 !important;
+}
+a.nav-link:hover,
+a.nav-link:focus,
+a.nav-link.active {
+  color: #B22222 !important;
+}
+/* 进入学校官网 */
+.ecuc{
+  background-color: #f00 !important;
+}
+.ecuc:hover,
+.ecuc:focus,
+.ecuc.active {
+  background-color: #B22222 !important;
+}
+
+
+
+.dangan{
+  color: #000;
+  font-size: 1.6em;
+}
+
+
+a.text-success{
+  color: #fff !important;
+}
+a.text-success:hover,
+a.text-success:focus,
+a.text-success.active {
+  color: #696969 !important;
+}
+
+/* .spe1{
+  margin: 10rem !important;
+} */
+
+/* 历史记录 */
+.zhanghu{
+  color: #696969;
+}
+
+.zhanghu:hover{
+  color: #f00;
+}
+
+.icon-example{
+  height: 2rem !important;
+  width: auto;
+  align: center;
+  opacity:0.4;
+  filter:alpha(opacity=40);
+}
+
+.icon-example:hover
+{
+  opacity:1.0;
+  filter:alpha(opacity=100);
+}
+
+.airtable-embed{
+  height: 1080px;
+  width:100%;
+}
+
+
+/* 绿的 */
+.nav1 a{
+  color: #000 !important;
+}
+.nav-check1 a{
+  color: #16af04 !important;
+}
+a.nav1:hover,
+a.nav1:focus,
+a.nav1.active {
+  color: #138505 !important;
+}
+/* 蓝的 */
+.nav2 a{
+  color: #000 !important;
+}
+.nav-check2 a{
+  color: #16af04 !important;
+}
+a.nav2:hover,
+a.nav2:focus,
+a.nav2.active {
+  color: #138505 !important;
+}
