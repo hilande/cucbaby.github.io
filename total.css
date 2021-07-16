@@ -125,3 +125,77 @@ a.navbar-caption.active {
 .suibian{
   color: #fff !important;
 }
+
+.pic1{
+  height: 3rem !important;
+  width: 3rem !important;
+  text-align: center!important;
+}
+.pic1 img{
+  align-items: center !important;
+}
+
+/* .onee img{
+  border-radius:20rem;
+  height: auto;
+  max-height:8rem;
+  width:auto;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+
+} */
+
+.spe1{
+  margin-bottom: 5rem;
+}
+
+
+.tarea{
+  height: 20rem !important;
+}
+
+.ok{
+  display: inline-block;
+}
+
+.tt1{
+   height:28rem !important;
+}
+/* <div class="container col-12 col-md-6">
+  <section class="form5 cid-sCVx5BBr9p" id="form5-12">
+
+  <div class="container-fluid card col-12 col-md-6">
+      <div class="mbr-section-head">
+
+          <h4 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2 display-5"><strong>
+              发布内容</strong></h4>
+      </div>
+      <div class="row justify-content-center mt-4">
+          <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
+              <form action="" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="pUpoZhxOmSdDRgjEX7y4EEr/uZGNMdwBMcatLLun9V6cu1kiqltsQTp7mIkVt9nhMahKsh6p1IFw7tABlBBtIMm6DIlUsz30v7dZ6AqLyxg+P+h3lMcivpSSY0YLyz9D">
+                  <div class="row">
+                      <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">发布成功</div>
+                      <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">发布失败</div>
+                  </div>
+                  <div class="dragArea row">
+                      <div class="col-md col-sm-12 form-group" data-for="name">
+                          <input type="text" name="name" placeholder="姓名" data-form-field="name" class="form-control" value="" id="name-form5-12">
+                      </div>
+                      <div class="col-md col-sm-12 form-group" data-for="email">
+                          <input type="email" name="email" placeholder="学号" data-form-field="email" class="form-control" value="" id="email-form5-12">
+                      </div>
+
+                      <div class="col-12 form-group" data-for="textarea">
+                          <textarea name="textarea" placeholder="发布信息" data-form-field="textarea" class="form-control tarea" id="textarea-form5-12"></textarea>
+                      </div>
+                      <div class="col-lg-12 col-md-12 col-sm-12 align-center mbr-section-btn"><a class="btn btn-primary-outline display-4" style="display:inline-block;" href="">上传图像</a><button type="submit" class="btn btn-primary display-4" style="display:inline-block;" >发布</button></div>
+                  </div>
+              </form>
+          </div>
+      </div>
+  </div>
+
+  </section></div> */
